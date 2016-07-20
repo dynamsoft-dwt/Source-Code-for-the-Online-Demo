@@ -17,7 +17,7 @@ You can check out how it works on this <a target="_blank" href="https://www.dyna
 
 ## Download Source Code
 
-In order to test the demo, you will need to download the complete code <a href="/dynamsoft.com/Samples/DWT/OnlineDemo.zip" target="_blank">here</a>.
+In order to test the demo, you will need to download the complete code <a href="https://www.dynamsoft.com/Samples/DWT/OnlineDemo.zip" target="_blank">here</a>.
 
 Should you need any technical help, please write to 
 support@dynamsoft.com.
